@@ -1,4 +1,2 @@
-## heyoo everyone welcom to my gide
+## hello ,get
 -- I 'm' adding this form 
-
-im doing what i need 
