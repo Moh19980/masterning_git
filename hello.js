@@ -1,3 +1,5 @@
 console.log("Hello World!")
 console.log('hello github')
-console.log('Hello from dev-moh')
+// console.log('Hello from dev-moh')
+// console.log('this is the bad code ')
+console.log("trying to fix the bad code")
